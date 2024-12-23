@@ -1,0 +1,11 @@
+add and remove users
+
+Manage the database.
+<<<<<<< HEAD
+=======
+Closing the  mysql database connection
+
+change 1
+
+change 2 in harsh's database
+>>>>>>> feature3
